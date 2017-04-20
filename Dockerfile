@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu-upstart:trusty
 
 MAINTAINER Vladimir Blaskov <blaskov@gmail.com>
 
